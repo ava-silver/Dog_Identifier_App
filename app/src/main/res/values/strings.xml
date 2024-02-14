@@ -1,17 +1,17 @@
 
-<!DOCTYPE resources [
-    <!ENTITY appname "Dog Identifier App">
-    <!ENTITY dogfindtab "Find Dogs">
-    ]>
-
 <resources>
-    <string name="app_name">&appname;</string>
+    <string name="app_name">Dog Identifier App</string>
     <string name="title_instructions">Instructions</string>
-    <string name="body_instructions"><b>Welcome to the &appname;!</b>\n
+    <string name="body_instructions"><b>Welcome to the Dog Identifier App!</b>\n
         This is an app used to identify dogs using the phone\'s camera.\n
-        Just go to the \"&dogfindtab;\" tab and point the camera at a dog.
-        The dog will be automatically identified.
-    </string>
-    <string name="dog_find_tab">&dogfindtab;</string>
+        Just go to the \"Find Dogs\" tab and point the camera at a dog.
+        The dog will be automatically identified.</string>
+    <string name="dog_find_tab">Find Dogs</string>
     <string name="title_notifications">Notifications</string>
+    <string name="image_viewer_description">Displays the images selected by user.</string>
+    <string name="image_select_button_text">Select Photo</string>
+    <string name="image_select_button_description">Button to allow users to select photos.</string>
+    <string name="identify_button_text">Identify Dog</string>
+    <string name="identify_button_description">Button to allow users to identify the dog.</string>
+    <string name="default_text">Sample Text :)</string>
 </resources>
